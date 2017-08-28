@@ -4,7 +4,7 @@ from selenium.webdriver import ActionChains
 
 from PrahaTest import *
 
-class DragWord(PrahaTest):
+class DragWordTest(PrahaTest):
     name = "drag-word"
 
     def perform(self):
